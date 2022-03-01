@@ -9,7 +9,7 @@ Repository of learning-based inverse tone mapping papers, metrics, datasets and 
 `SiGGRAPH Asia 2017` | [`Paper`](https://arxiv.org/abs/1710.07480) | [`Project`](http://hdrv.org/hdrcnn/)
 
 * **_Deep Reverse Tone Mapping_**  <br>
-`SIGGRAPH ASIA 2017` | [`Paper`](http://www.npal.cs.tsukuba.ac.jp/~endo/projects/DrTMO/paper/DrTMO_SIGGRAPHAsia.pdf) | [`project & code`](http://www.npal.cs.tsukuba.ac.jp/~endo/projects/DrTMO/)
+`SIGGRAPH Asia 2017` | [`Paper`](http://www.npal.cs.tsukuba.ac.jp/~endo/projects/DrTMO/paper/DrTMO_SIGGRAPHAsia.pdf) | [`project & code`](http://www.npal.cs.tsukuba.ac.jp/~endo/projects/DrTMO/)
 
 * **_ExpandNet: A Deep Convolutional Neural Network for High Dynamic Range Expansion from Low Dynamic Range Content_** <br>
 `Eurographics 2018` | [`paper`](https://arxiv.org/pdf/1803.02266.pdf) | [`code`](https://github.com/dmarnerides/hdr-expandnet)
