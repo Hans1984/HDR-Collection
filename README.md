@@ -89,10 +89,10 @@ Repository of learning-based inverse tone mapping papers, metrics, datasets and 
  `ICCV 2021` [`Paper`](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_A_New_Journey_From_SDRTV_to_HDRTV_ICCV_2021_paper.pdf) | [`code`](https://github.com/chxy95/HDRTVNet)
  
 ### Metrics
-* **_HDR-VDP-2: A calibrated visual metric for visibility and quality predictions in all luminance conditions_** <br> 
+* **_Extending Quality Metrics to Full Luminance Range Images_** <br> 
 `Human vision and electronic imaging 2008`| [`paper`](https://resources.mpi-inf.mpg.de/hdr/fulldr_extension/src/aydin_spie08.pdf) | [`Project`](https://resources.mpi-inf.mpg.de/hdr/fulldr_extension/)
 
-* **_Extending Quality Metrics to Full Luminance Range Images_** <br> 
+* **_HDR-VDP-2: A calibrated visual metric for visibility and quality predictions in all luminance conditions_** <br> 
 `SiGGRAPH 2011`| [`paper`](https://dl.acm.org/doi/10.1145/2010324.1964935) | [`Project`](http://hdrvdp.sourceforge.net/wiki/)
  
 ### Others
@@ -137,8 +137,6 @@ Repository of learning-based inverse tone mapping papers, metrics, datasets and 
         </li>
     </ul>
 </p>
-
-
 
 ### Challenges
 
