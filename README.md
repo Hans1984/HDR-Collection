@@ -88,6 +88,10 @@ Repository of learning-based inverse tone mapping papers, metrics, datasets and 
 * **_A New Journey from SDRTV to HDRTV_** <br>
  `ICCV 2021` [`Paper`](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_A_New_Journey_From_SDRTV_to_HDRTV_ICCV_2021_paper.pdf) | [`code`](https://github.com/chxy95/HDRTVNet)
  
+ * **_A Mixed Quantization Network for Computationally Efficient Mobile Inverse Tone Mapping_** <br>
+ `BMVC 2021` [`Paper`](https://arxiv.org/pdf/2203.06504.pdf)
+ 
+ 
 ### Metrics
 * **_Extending Quality Metrics to Full Luminance Range Images_** <br> 
 `Human vision and electronic imaging 2008`| [`paper`](https://resources.mpi-inf.mpg.de/hdr/fulldr_extension/src/aydin_spie08.pdf) | [`Project`](https://resources.mpi-inf.mpg.de/hdr/fulldr_extension/)
