@@ -68,6 +68,11 @@ Repository of learning-based inverse tone mapping papers, metrics, datasets and 
 * **_Ultra-High-Definition Image HDR Reconstruction via Collaborative Bilateral Learning_** <br>
 `ICCV 2021` | [`Paper`](https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_Ultra-High-Definition_Image_HDR_Reconstruction_via_Collaborative_Bilateral_Learning_ICCV_2021_paper.pdf)
 
+* **_A Mixed Quantization Network for Computationally Efficient Mobile Inverse Tone Mapping_** <br>
+`BMVC 2021` [`Paper`](https://arxiv.org/pdf/2203.06504.pdf)
+
+* **_LiTMNet: A deep CNN for efficient HDR image reconstruction from a single LDR image_** <br>
+`Pattern Recognition 2022` [`Paper`](https://www.sciencedirect.com/science/article/abs/pii/S0031320322001017)
 
 ### HDR Video
 * **_Deep HDR Video from Sequences with Alternating Exposures_** <br>
@@ -88,9 +93,8 @@ Repository of learning-based inverse tone mapping papers, metrics, datasets and 
 * **_A New Journey from SDRTV to HDRTV_** <br>
  `ICCV 2021` [`Paper`](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_A_New_Journey_From_SDRTV_to_HDRTV_ICCV_2021_paper.pdf) | [`code`](https://github.com/chxy95/HDRTVNet)
  
- * **_A Mixed Quantization Network for Computationally Efficient Mobile Inverse Tone Mapping_** <br>
- `BMVC 2021` [`Paper`](https://arxiv.org/pdf/2203.06504.pdf)
- 
+ * **_Unsupervised HDR Imaging: What Can Be Learned from a Single 8-bit Video?_** <br>
+ `Arxiv 2022` [`Paper`](https://arxiv.org/pdf/2202.05522.pdf)
  
 ### Metrics
 * **_Extending Quality Metrics to Full Luminance Range Images_** <br> 
