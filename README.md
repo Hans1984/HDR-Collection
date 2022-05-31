@@ -95,6 +95,10 @@ Repository of learning-based inverse tone mapping papers, metrics, datasets and 
  
  * **_Unsupervised HDR Imaging: What Can Be Learned from a Single 8-bit Video?_** <br>
  `Arxiv 2022` [`Paper`](https://arxiv.org/pdf/2202.05522.pdf)
+
+### Survey
+ * **_Deep Learning for HDR Imaging: State-of-the-Art and Future Trends_** <br>
+ `Arxiv 2021` [`Paper`](https://arxiv.org/pdf/2110.10394.pdf)
  
 ### Metrics
 * **_Extending Quality Metrics to Full Luminance Range Images_** <br> 
