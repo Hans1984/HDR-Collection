@@ -99,6 +99,9 @@ Repository of learning-based inverse tone mapping papers, metrics, datasets and 
   * **_Global Priors Guided Modulation Network for Joint Super-Resolution and Inverse Tone-Mapping_** <br>
  `Arxiv 2022` [`Paper`](https://arxiv.org/pdf/2202.05522.pdf)
 
+  * **_SDRTV-to-HDRTV via Hierarchical Dynamic Context Feature Mapping_** <br>
+ `Arxiv 2022` [`Paper`](https://arxiv.org/pdf/2207.00319.pdf)
+ 
 ### Survey
  * **_Deep Learning for HDR Imaging: State-of-the-Art and Future Trends_** <br>
  `Arxiv 2021` [`Paper`](https://arxiv.org/pdf/2208.06885.pdf)
