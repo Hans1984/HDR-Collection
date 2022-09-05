@@ -74,6 +74,9 @@ Repository of learning-based inverse tone mapping papers, metrics, datasets and 
 * **_LiTMNet: A deep CNN for efficient HDR image reconstruction from a single LDR image_** <br>
 `Pattern Recognition 2022` [`Paper`](https://www.sciencedirect.com/science/article/abs/pii/S0031320322001017)
 
+* **_KUNet: Imaging Knowledge-Inspired Single HDR Image Reconstruction_** <br>
+`IJCAI 2022` [`Paper`](https://surrey-uplab.github.io/assets/pdf/WantEtAl_IJCAI2022.pdf)
+
 ### HDR Video
 * **_Deep HDR Video from Sequences with Alternating Exposures_** <br>
 `Eurographics 2019` | [`Paper`](https://people.engr.tamu.edu/nimak/Data/Eurographics19_HDRVideo.pdf)
