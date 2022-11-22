@@ -74,6 +74,9 @@ Repository of learning-based HDR-related papers, including but not limited to im
 * **_LiTMNet: A deep CNN for efficient HDR image reconstruction from a single LDR image_** <br>
 `Pattern Recognition 2022` [`Paper`](https://www.sciencedirect.com/science/article/abs/pii/S0031320322001017)
 
+* **_Single-Image HDR Reconstruction by Multi-Exposure Generation_** <br>
+`WACV 2022` [`Paper`](https://arxiv.org/pdf/2210.15897.pdf)
+
 * **_KUNet: Imaging Knowledge-Inspired Single HDR Image Reconstruction_** <br>
 `IJCAI 2022` [`Paper`](https://surrey-uplab.github.io/assets/pdf/WantEtAl_IJCAI2022.pdf)
 
@@ -132,6 +135,12 @@ Repository of learning-based HDR-related papers, including but not limited to im
 
 * **_HDR-GAN: HDR Image Reconstruction from Multi-Exposed LDR Images with Large Motions_** <br>
 `TIP 2021` | [`paper`](https://arxiv.org/abs/2007.01628)
+
+* **_Multi-scale Sampling and Aggregation Network For High Dynamic Range Imaging_** <br>
+`Arxiv` | [`paper`](https://arxiv.org/pdf/2208.02448.pdf)
+
+* **_Learning Regularized Multi-Scale Feature Flow for High Dynamic Range Imaging_** <br>
+`Arxiv` | [`paper`](https://arxiv.org/pdf/2207.02539.pdf)
 
 * **_Dual-Attention-Guided Network for Ghost-Free High Dynamic Range Imaging_** <br>
 `IJCV 2022` | [`paper`](https://link.springer.com/article/10.1007/s11263-021-01535-y)
