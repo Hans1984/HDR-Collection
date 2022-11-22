@@ -78,7 +78,7 @@ Repository of learning-based inverse tone mapping papers, metrics, datasets and 
 `IJCAI 2022` [`Paper`](https://surrey-uplab.github.io/assets/pdf/WantEtAl_IJCAI2022.pdf)
 
 * **_LHDR: HDR Reconstruction for Legacy Content using a Lightweight DNN_** <br>
-`IJCAI 2022` [`Paper`](https://arxiv.org/pdf/2211.11270.pdf)
+`ACCV 2022` [`Paper`](https://arxiv.org/pdf/2211.11270.pdf)
 
 ### HDR Video
 * **_Deep HDR Video from Sequences with Alternating Exposures_** <br>
