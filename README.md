@@ -137,16 +137,16 @@ Repository of learning-based HDR-related papers, including but not limited to im
 `TIP 2021` | [`paper`](https://arxiv.org/abs/2007.01628)
 
 * **_Multi-scale Sampling and Aggregation Network For High Dynamic Range Imaging_** <br>
-`Arxiv 22` | [`paper`](https://arxiv.org/pdf/2208.02448.pdf)
+`Arxiv 2202` | [`paper`](https://arxiv.org/pdf/2208.02448.pdf)
 
 * **_Learning Regularized Multi-Scale Feature Flow for High Dynamic Range Imaging_** <br>
-`Arxiv 22` | [`paper`](https://arxiv.org/pdf/2207.02539.pdf)
+`Arxiv 2022` | [`paper`](https://arxiv.org/pdf/2207.02539.pdf)
 
 * **_FlexHDR: Modelling Alignment and Exposure Uncertainties for Flexible HDR Imaging_** <br>
-`Arxiv 22` | [`paper`](https://arxiv.org/pdf/2201.02625.pdf)
+`Arxiv 2022` | [`paper`](https://arxiv.org/pdf/2201.02625.pdf)
 
 * **_DISENTANGLED FEATURE-GUIDED MULTI-EXPOSURE HIGH DYNAMIC RANGE IMAGING_** <br>
-`Arxiv 22` | [`paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9747329)
+`Arxiv 2022` | [`paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9747329)
 
 * **_Dual-Attention-Guided Network for Ghost-Free High Dynamic Range Imaging_** <br>
 `IJCV 2022` | [`paper`](https://link.springer.com/article/10.1007/s11263-021-01535-y)
