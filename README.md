@@ -133,7 +133,7 @@ Difference Predictor for Wide Field-of-View Video_** <br>
 `SiGGRAPH 2022 `| [`paper`](https://www.cl.cam.ac.uk/~rkm38/pdfs/hanji2022_SIHDR_benchmark.pdf) | [`Project`](https://www.cl.cam.ac.uk/research/rainbow/projects/sihdr_benchmark/)
 
 ### Multiple Exposure Fusion (mainly for dynamic scenes)
-*  **_Deep high dynamic range imaging of dynamic scenes._** <br>
+*  **_Deep high dynamic range imaging of dynamic scenes_** <br>
 `SIGGRAPH Asia 2017` | [`Paper`](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/PaperData/SIGGRAPH17_HDR.pdf) | [`Project`](http://viscomp.ucsd.edu/projects/SIG17HDR/) | [`Code::matlab (Official)`](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/PaperData/SIGGRAPH17_HDR_Code_v1.0.zip) | [`Code::TensorFlow`](https://github.com/TH3CHARLie/deep-high-dynamic-range)<br>
 
 * **_Deep High Dynamic Range Imaging with Large Foreground Motions_**  <br>
@@ -150,6 +150,15 @@ Difference Predictor for Wide Field-of-View Video_** <br>
 
 * **_HDR-GAN: HDR Image Reconstruction from Multi-Exposed LDR Images with Large Motions_** <br>
 `TIP 2021` | [`paper`](https://arxiv.org/abs/2007.01628)
+
+* **_Dual-Attention-Guided Network for Ghost-Free High Dynamic Range Imaging_** <br>
+`IJCV 2022` | [`paper`](https://link.springer.com/article/10.1007/s11263-021-01535-y)
+
+* **_Selective TransHDR: Transformer-Based Selective HDR Imaging Using Ghost Region Mask_** <br>
+`ECCV 2022` | [`paper`](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136770292.pdf)
+
+* **_Ghost-free High Dynamic Range Imaging with ontext-aware Transformer_** <br>
+`ECCV 2022` | [`paper`](https://arxiv.org/pdf/2208.05114.pdf)| [`code`](https://github.com/megvii-research/HDR-Transformer)
 
 ### Others
 * **_How to cheat with metrics in single-image HDR reconstruction_** <br>
