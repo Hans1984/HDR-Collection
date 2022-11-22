@@ -77,6 +77,9 @@ Repository of learning-based inverse tone mapping papers, metrics, datasets and 
 * **_KUNet: Imaging Knowledge-Inspired Single HDR Image Reconstruction_** <br>
 `IJCAI 2022` [`Paper`](https://surrey-uplab.github.io/assets/pdf/WantEtAl_IJCAI2022.pdf)
 
+* **_LHDR: HDR Reconstruction for Legacy Content using a Lightweight DNN_** <br>
+`IJCAI 2022` [`Paper`](https://arxiv.org/pdf/2211.11270.pdf)
+
 ### HDR Video
 * **_Deep HDR Video from Sequences with Alternating Exposures_** <br>
 `Eurographics 2019` | [`Paper`](https://people.engr.tamu.edu/nimak/Data/Eurographics19_HDRVideo.pdf)
@@ -104,6 +107,12 @@ Repository of learning-based inverse tone mapping papers, metrics, datasets and 
 
   * **_SDRTV-to-HDRTV via Hierarchical Dynamic Context Feature Mapping_** <br>
  `Arxiv 2022` [`Paper`](https://arxiv.org/pdf/2207.00319.pdf)
+ 
+  * **_DeepHS-HDRVideo: Deep High Speed High Dynamic Range Video Reconstruction_** <br>
+ `Arxiv 2022` [`Paper`](https://arxiv.org/pdf/2210.04429.pdf)
+ 
+  * **_SDRTV-to-HDRTV Conversion via Spatial-Temporal Feature Fusion_** <br>
+ `Arxiv 2022` [`Paper`](https://arxiv.org/pdf/2211.02297.pdf)
  
 ### Survey
  * **_Deep Learning for HDR Imaging: State-of-the-Art and Future Trends_** <br>
