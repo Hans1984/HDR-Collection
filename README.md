@@ -117,8 +117,12 @@ Repository of learning-based inverse tone mapping papers, metrics, datasets and 
 `SiGGRAPH 2011`| [`paper`](https://dl.acm.org/doi/10.1145/2010324.1964935) | [`Project`](http://hdrvdp.sourceforge.net/wiki/)
 
 * **_Comparison of single image HDR reconstruction methods the caveats of quality assessment_** <br> 
-`SiGGRAPH 2022`| [`paper`](https://www.cl.cam.ac.uk/~rkm38/pdfs/hanji2022_SIHDR_benchmark.pdf) | [`Project`](https://www.cl.cam.ac.uk/research/rainbow/projects/sihdr_benchmark/)
+`SiGGRAPH 2022 `| [`paper`](https://www.cl.cam.ac.uk/~rkm38/pdfs/hanji2022_SIHDR_benchmark.pdf) | [`Project`](https://www.cl.cam.ac.uk/research/rainbow/projects/sihdr_benchmark/)
  
+ * **_FovVideoVDP: A Visible
+Difference Predictor for Wide Field-of-View Video_** <br> 
+`SiGGRAPH 2021`| [`paper`](https://dl.acm.org/doi/pdf/10.1145/3450626.3459831) | [`code`]([https://www.cl.cam.ac.uk/research/rainbow/projects/sihdr_benchmark/](https://github.com/gfxdisp/FovVideoVDP))
+
 ### Others
 * **_How to cheat with metrics in single-image HDR reconstruction_** <br>
  `ICCVW 2021` | [`Paper`](https://openaccess.thecvf.com/content/ICCV2021W/LCI/papers/Eilertsen_How_To_Cheat_With_Metrics_in_Single-Image_HDR_Reconstruction_ICCVW_2021_paper.pdf)
