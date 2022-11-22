@@ -114,25 +114,7 @@ Repository of learning-based HDR-related papers, including but not limited to im
   * **_SDRTV-to-HDRTV Conversion via Spatial-Temporal Feature Fusion_** <br>
  `Arxiv 2022` [`Paper`](https://arxiv.org/pdf/2211.02297.pdf)
  
-### Survey
- * **_Deep Learning for HDR Imaging: State-of-the-Art and Future Trends_** <br>
- `Arxiv 2021` [`Paper`](https://arxiv.org/pdf/2208.06885.pdf)
- 
-### Metrics
-* **_Extending Quality Metrics to Full Luminance Range Images_** <br> 
-`Human vision and electronic imaging 2008`| [`paper`](https://resources.mpi-inf.mpg.de/hdr/fulldr_extension/src/aydin_spie08.pdf) | [`Project`](https://resources.mpi-inf.mpg.de/hdr/fulldr_extension/)
-
-* **_HDR-VDP-2: A calibrated visual metric for visibility and quality predictions in all luminance conditions_** <br> 
-`SiGGRAPH 2011`| [`paper`](https://dl.acm.org/doi/10.1145/2010324.1964935) | [`Project`](http://hdrvdp.sourceforge.net/wiki/)
-
-* **_FovVideoVDP: A Visible
-Difference Predictor for Wide Field-of-View Video_** <br> 
-`SiGGRAPH 2021`| [`paper`](https://dl.acm.org/doi/pdf/10.1145/3450626.3459831) | [`code`](https://github.com/gfxdisp/FovVideoVDP)
-
-* **_Comparison of single image HDR reconstruction methods the caveats of quality assessment_** <br> 
-`SiGGRAPH 2022 `| [`paper`](https://www.cl.cam.ac.uk/~rkm38/pdfs/hanji2022_SIHDR_benchmark.pdf) | [`Project`](https://www.cl.cam.ac.uk/research/rainbow/projects/sihdr_benchmark/)
-
-### Multiple Exposure Fusion (mainly for dynamic scenes)
+ ### Multiple Exposure Fusion (mainly for dynamic scenes)
 *  **_Deep high dynamic range imaging of dynamic scenes_** <br>
 `SIGGRAPH Asia 2017` | [`Paper`](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/PaperData/SIGGRAPH17_HDR.pdf) | [`Project`](http://viscomp.ucsd.edu/projects/SIG17HDR/) | [`Code::matlab (Official)`](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/PaperData/SIGGRAPH17_HDR_Code_v1.0.zip) | [`Code::TensorFlow`](https://github.com/TH3CHARLie/deep-high-dynamic-range)<br>
 
@@ -159,6 +141,24 @@ Difference Predictor for Wide Field-of-View Video_** <br>
 
 * **_Ghost-free High Dynamic Range Imaging with ontext-aware Transformer_** <br>
 `ECCV 2022` | [`paper`](https://arxiv.org/pdf/2208.05114.pdf)| [`code`](https://github.com/megvii-research/HDR-Transformer)
+ 
+### Survey
+ * **_Deep Learning for HDR Imaging: State-of-the-Art and Future Trends_** <br>
+ `Arxiv 2021` [`Paper`](https://arxiv.org/pdf/2208.06885.pdf)
+ 
+### Metrics
+* **_Extending Quality Metrics to Full Luminance Range Images_** <br> 
+`Human vision and electronic imaging 2008`| [`paper`](https://resources.mpi-inf.mpg.de/hdr/fulldr_extension/src/aydin_spie08.pdf) | [`Project`](https://resources.mpi-inf.mpg.de/hdr/fulldr_extension/)
+
+* **_HDR-VDP-2: A calibrated visual metric for visibility and quality predictions in all luminance conditions_** <br> 
+`SiGGRAPH 2011`| [`paper`](https://dl.acm.org/doi/10.1145/2010324.1964935) | [`Project`](http://hdrvdp.sourceforge.net/wiki/)
+
+* **_FovVideoVDP: A Visible
+Difference Predictor for Wide Field-of-View Video_** <br> 
+`SiGGRAPH 2021`| [`paper`](https://dl.acm.org/doi/pdf/10.1145/3450626.3459831) | [`code`](https://github.com/gfxdisp/FovVideoVDP)
+
+* **_Comparison of single image HDR reconstruction methods the caveats of quality assessment_** <br> 
+`SiGGRAPH 2022 `| [`paper`](https://www.cl.cam.ac.uk/~rkm38/pdfs/hanji2022_SIHDR_benchmark.pdf) | [`Project`](https://www.cl.cam.ac.uk/research/rainbow/projects/sihdr_benchmark/)
 
 ### Others
 * **_How to cheat with metrics in single-image HDR reconstruction_** <br>
