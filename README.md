@@ -132,15 +132,15 @@ Difference Predictor for Wide Field-of-View Video_** <br>
 * **_Comparison of single image HDR reconstruction methods the caveats of quality assessment_** <br> 
 `SiGGRAPH 2022 `| [`paper`](https://www.cl.cam.ac.uk/~rkm38/pdfs/hanji2022_SIHDR_benchmark.pdf) | [`Project`](https://www.cl.cam.ac.uk/research/rainbow/projects/sihdr_benchmark/)
 
-### Multiple Exposure Fusion (for dynamic scenes)
+### Multiple Exposure Fusion (mainly for dynamic scenes)
 *  **_Deep high dynamic range imaging of dynamic scenes._** <br>
 `SIGGRAPH Asia 2017` | [`Paper`](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/PaperData/SIGGRAPH17_HDR.pdf) | [`Project`](http://viscomp.ucsd.edu/projects/SIG17HDR/) | [`Code::matlab (Official)`](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/PaperData/SIGGRAPH17_HDR_Code_v1.0.zip) | [`Code::TensorFlow`](https://github.com/TH3CHARLie/deep-high-dynamic-range)<br>
 
-* **_Multi-scale Dense Networks for Deep High Dynamic Range Imaging_** <br>
-`WACV 2019`  | [`Paper`](https://ieeexplore.ieee.org/document/8658831)
-
 * **_Deep High Dynamic Range Imaging with Large Foreground Motions_**  <br>
 `ECCV 2018` | [`paper`](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Shangzhe_Wu_Deep_High_Dynamic_ECCV_2018_paper.pdf) | [`project & code`](https://elliottwu.com/projects/hdr/)
+
+* **_Multi-scale Dense Networks for Deep High Dynamic Range Imaging_** <br>
+`WACV 2019`  | [`Paper`](https://ieeexplore.ieee.org/document/8658831)
 
 * **_Attention-guided Network for Ghost-free High Dynamic Range Imaging_** <br> 
 `CVPR 2019` | [`paper`](https://arxiv.org/abs/1904.10293) | [`code`](https://github.com/qingsenyangit/AHDRNet) | [`Project`](https://donggong1.github.io/ahdr.html)
