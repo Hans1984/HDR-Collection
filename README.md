@@ -136,8 +136,26 @@ Repository of learning-based HDR-related papers, including but not limited to im
 * **_HDR-GAN: HDR Image Reconstruction from Multi-Exposed LDR Images with Large Motions_** <br>
 `TIP 2021` | [`paper`](https://arxiv.org/abs/2007.01628)
 
+* **_Ghost-Free Deep High-Dynamic-Range Imaging Using Focus Pixels for Complex Motion Scenes_** <br>
+`TIP 2021` | [`paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9429936)
+
+* **_Self-Gated Memory Recurrent Network for Efficient Scalable HDR Deghosting_** <br>
+`TCI 2021` | [`paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9540317)
+
+* **_Labeled from Unlabeled: Exploiting Unlabeled Data for Few-shot Deep HDR Deghosting_** <br>
+`CVPR 2021` | [`paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/Prabhakar_Labeled_From_Unlabeled_Exploiting_Unlabeled_Data_for_Few-Shot_Deep_HDR_CVPR_2021_paper.pdf)
+
+* **_GHOST-FREE HDR IMAGING VIA UNROLLING LOW-RANK MATRIX COMPLETION_** <br>
+`ICIP 2021` | [`paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9506201)
+
+* **_Deep SR-HDR: Joint Learning of Super-Resolution and High Dynamic Range Imaging for Dynamic Scenes_** <br>
+`TMM 2021` | [`paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9633177)
+
+* **_Progressive and Selective Fusion Network for High Dynamic Range Imaging_** <br>
+`TMM 2021` | [`paper`](https://dl.acm.org/doi/pdf/10.1145/3474085.3475651)
+
 * **_Multi-scale Sampling and Aggregation Network For High Dynamic Range Imaging_** <br>
-`Arxiv 2202` | [`paper`](https://arxiv.org/pdf/2208.02448.pdf)
+`Arxiv 2022` | [`paper`](https://arxiv.org/pdf/2208.02448.pdf)
 
 * **_Learning Regularized Multi-Scale Feature Flow for High Dynamic Range Imaging_** <br>
 `Arxiv 2022` | [`paper`](https://arxiv.org/pdf/2207.02539.pdf)
