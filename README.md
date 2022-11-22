@@ -137,13 +137,25 @@ Repository of learning-based HDR-related papers, including but not limited to im
 `TIP 2021` | [`paper`](https://arxiv.org/abs/2007.01628)
 
 * **_Multi-scale Sampling and Aggregation Network For High Dynamic Range Imaging_** <br>
-`Arxiv` | [`paper`](https://arxiv.org/pdf/2208.02448.pdf)
+`Arxiv 22` | [`paper`](https://arxiv.org/pdf/2208.02448.pdf)
 
 * **_Learning Regularized Multi-Scale Feature Flow for High Dynamic Range Imaging_** <br>
-`Arxiv` | [`paper`](https://arxiv.org/pdf/2207.02539.pdf)
+`Arxiv 22` | [`paper`](https://arxiv.org/pdf/2207.02539.pdf)
+
+* **_FlexHDR: Modelling Alignment and Exposure Uncertainties for Flexible HDR Imaging_** <br>
+`Arxiv 22` | [`paper`](https://arxiv.org/pdf/2201.02625.pdf)
+
+* **_DISENTANGLED FEATURE-GUIDED MULTI-EXPOSURE HIGH DYNAMIC RANGE IMAGING_** <br>
+`Arxiv 22` | [`paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9747329)
 
 * **_Dual-Attention-Guided Network for Ghost-Free High Dynamic Range Imaging_** <br>
 `IJCV 2022` | [`paper`](https://link.springer.com/article/10.1007/s11263-021-01535-y)
+
+* **_Deep Unrolled Low-Rank Tensor Completion for High Dynamic Range Imaging_** <br>
+`TIP 2022` | [`paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9874720)
+
+* **_UPHDR-GAN: Generative Adversarial Network for High Dynamic Range Imaging With Unpaired Data_** <br>
+`TCSVT 2022` | [`paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9826814)
 
 * **_Selective TransHDR: Transformer-Based Selective HDR Imaging Using Ghost Region Mask_** <br>
 `ECCV 2022` | [`paper`](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136770292.pdf)
@@ -151,8 +163,29 @@ Repository of learning-based HDR-related papers, including but not limited to im
 * **_Ghost-free High Dynamic Range Imaging with ontext-aware Transformer_** <br>
 `ECCV 2022` | [`paper`](https://arxiv.org/pdf/2208.05114.pdf)| [`code`](https://github.com/megvii-research/HDR-Transformer)
  
+* **_HDRfeat: A Feature-Rich Network for High Dynamic Range Image Reconstruction_** <br>
+`Arxiv 2022` | [`paper`](https://arxiv.org/pdf/2211.04238.pdf)
+
+* **_Attention-Guided Progressive Neural Texture Fusion for High Dynamic Range Image Restoration_** <br>
+`TIP 2022` | [`paper`](https://arxiv.org/pdf/2207.01229.pdf)
+
+* **_Segmentation Guided Deep HDR Deghosting_** <br>
+`Arxiv 2022` | [`paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9740005)
+
+* **_High Dynamic Range Imaging of Dynamic Scenes with Saturation Compensation but without Explicit Motion Compensation_** <br>
+`WACV 2022` | [`paper`](https://openaccess.thecvf.com/content/WACV2022/papers/Chung_High_Dynamic_Range_Imaging_of_Dynamic_Scenes_With_Saturation_Compensation_WACV_2022_paper.pdf)
+
+* **_High Dynamic Range Imaging for Dynamic Scenes With Large-Scale Motions and Severe Saturation_** <br>
+`TIM 2022` | [`paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9684441)
+
+* **_HDR-AGAN: GHOST-FREE HIGH DYNAMIC RANGE IMAGING WITH ATTENTION GUIDED ADVERSARIAL NETWORK_** <br>
+`ICIP 2022` | [`paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9897556)
+
+* **_HDR-AGAN: GHOST-FREE HIGH DYNAMIC RANGE IMAGING WITH ATTENTION GUIDED ADVERSARIAL NETWORK_** <br>
+`Multimedia Tools and Applications 2022` | [`paper`](https://link.springer.com/content/pdf/10.1007/s11042-021-11717-y.pdf)
+ 
 ### Survey
- * **_Deep Learning for HDR Imaging: State-of-the-Art and Future Trends_** <br>
+* **_Deep Learning for HDR Imaging: State-of-the-Art and Future Trends_** <br>
  `Arxiv 2021` [`Paper`](https://arxiv.org/pdf/2208.06885.pdf)
  
 ### Metrics
