@@ -1,5 +1,5 @@
 ###
-Repository of learning-based inverse tone mapping papers, metrics, datasets and tools. (Updating)
+Repository of learning-based HDR-related papers, including but not limited to image/video inverse tone mapping, multiple exposure fusion, metrics, datasets and tools. (some of the content is referenced in https://github.com/vinthony/awesome-deep-hdr, since it seems stop updating, I have extended it and try to keep it up to date.)
 
 ### Inverse Tone Mapping
 * **_Learning High Dynamic Range from Outdoor Panoramas_** <br>
@@ -131,6 +131,25 @@ Difference Predictor for Wide Field-of-View Video_** <br>
 
 * **_Comparison of single image HDR reconstruction methods the caveats of quality assessment_** <br> 
 `SiGGRAPH 2022 `| [`paper`](https://www.cl.cam.ac.uk/~rkm38/pdfs/hanji2022_SIHDR_benchmark.pdf) | [`Project`](https://www.cl.cam.ac.uk/research/rainbow/projects/sihdr_benchmark/)
+
+### Multiple Exposure Fusion (for dynamic scenes)
+*  **_Deep high dynamic range imaging of dynamic scenes._** <br>
+`SIGGRAPH Asia 2017` | [`Paper`](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/PaperData/SIGGRAPH17_HDR.pdf) | [`Project`](http://viscomp.ucsd.edu/projects/SIG17HDR/) | [`Code::matlab (Official)`](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/PaperData/SIGGRAPH17_HDR_Code_v1.0.zip) | [`Code::TensorFlow`](https://github.com/TH3CHARLie/deep-high-dynamic-range)<br>
+
+* **_Multi-scale Dense Networks for Deep High Dynamic Range Imaging_** <br>
+`WACV 2019`  | [`Paper`](https://ieeexplore.ieee.org/document/8658831)
+
+* **_Deep High Dynamic Range Imaging with Large Foreground Motions_**  <br>
+`ECCV 2018` | [`paper`](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Shangzhe_Wu_Deep_High_Dynamic_ECCV_2018_paper.pdf) | [`project & code`](https://elliottwu.com/projects/hdr/)
+
+* **_Attention-guided Network for Ghost-free High Dynamic Range Imaging_** <br> 
+`CVPR 2019` | [`paper`](https://arxiv.org/abs/1904.10293) | [`code`](https://github.com/qingsenyangit/AHDRNet) | [`Project`](https://donggong1.github.io/ahdr.html)
+
+* **_Deep HDR Imaging via A Non-Local Network_** <br>
+`TIP 2020` | [`paper`](https://ieeexplore.ieee.org/abstract/document/8989959) | [`code`](https://github.com/tuvovan/NHDRRNet)
+
+* **_HDR-GAN: HDR Image Reconstruction from Multi-Exposed LDR Images with Large Motions_** <br>
+`TIP 2021` | [`paper`](https://arxiv.org/abs/2007.01628)
 
 ### Others
 * **_How to cheat with metrics in single-image HDR reconstruction_** <br>
