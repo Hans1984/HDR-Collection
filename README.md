@@ -116,12 +116,12 @@ Repository of learning-based inverse tone mapping papers, metrics, datasets and 
 * **_HDR-VDP-2: A calibrated visual metric for visibility and quality predictions in all luminance conditions_** <br> 
 `SiGGRAPH 2011`| [`paper`](https://dl.acm.org/doi/10.1145/2010324.1964935) | [`Project`](http://hdrvdp.sourceforge.net/wiki/)
 
+* **_FovVideoVDP: A Visible
+Difference Predictor for Wide Field-of-View Video_** <br> 
+`SiGGRAPH 2021`| [`paper`](https://dl.acm.org/doi/pdf/10.1145/3450626.3459831) | [`code`](https://github.com/gfxdisp/FovVideoVDP)
+
 * **_Comparison of single image HDR reconstruction methods the caveats of quality assessment_** <br> 
 `SiGGRAPH 2022 `| [`paper`](https://www.cl.cam.ac.uk/~rkm38/pdfs/hanji2022_SIHDR_benchmark.pdf) | [`Project`](https://www.cl.cam.ac.uk/research/rainbow/projects/sihdr_benchmark/)
- 
- * **_FovVideoVDP: A Visible
-Difference Predictor for Wide Field-of-View Video_** <br> 
-`SiGGRAPH 2021`| [`paper`](https://dl.acm.org/doi/pdf/10.1145/3450626.3459831) | [`code`]([https://www.cl.cam.ac.uk/research/rainbow/projects/sihdr_benchmark/](https://github.com/gfxdisp/FovVideoVDP))
 
 ### Others
 * **_How to cheat with metrics in single-image HDR reconstruction_** <br>
