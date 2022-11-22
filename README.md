@@ -1,7 +1,7 @@
 ###
 Repository of learning-based HDR-related papers, including but not limited to image/video inverse tone mapping, multiple exposure fusion, metrics, datasets and tools. (some of the content is referenced in https://github.com/vinthony/awesome-deep-hdr, since it seems stop updating, I have extended it and try to keep it up to date.)
 
-### Inverse Tone Mapping
+### Inverse Tone Mapping (Single Image)
 * **_Learning High Dynamic Range from Outdoor Panoramas_** <br>
 `ICCV 2017` | [`Paper`](https://arxiv.org/pdf/1703.10200.pdf) | [`Project`](http://vision.gel.ulaval.ca/~jflalonde/publications/projects/learningHDR/index.html)
 
@@ -80,7 +80,7 @@ Repository of learning-based HDR-related papers, including but not limited to im
 * **_LHDR: HDR Reconstruction for Legacy Content using a Lightweight DNN_** <br>
 `ACCV 2022` [`Paper`](https://arxiv.org/pdf/2211.11270.pdf)
 
-### HDR Video
+### Inverse Tone Mapping (Video)
 * **_Deep HDR Video from Sequences with Alternating Exposures_** <br>
 `Eurographics 2019` | [`Paper`](https://people.engr.tamu.edu/nimak/Data/Eurographics19_HDRVideo.pdf)
 
