@@ -202,7 +202,7 @@ Repository of learning-based HDR-related papers, including but not limited to im
 * **_HDR-AGAN: GHOST-FREE HIGH DYNAMIC RANGE IMAGING WITH ATTENTION GUIDED ADVERSARIAL NETWORK_** <br>
 `ICIP 2022` | [`paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9897556)
 
-* **_HDR-AGAN: GHOST-FREE HIGH DYNAMIC RANGE IMAGING WITH ATTENTION GUIDED ADVERSARIAL NETWORK_** <br>
+* **_Attention‑guided network with inverse tone‑mapping guided up‑sampling for HDR imaging of dynamic scenes_** <br>
 `Multimedia Tools and Applications 2022` | [`paper`](https://link.springer.com/content/pdf/10.1007/s11042-021-11717-y.pdf)
  
 ### Survey
