@@ -117,6 +117,9 @@ Repository of learning-based HDR-related papers, including but not limited to im
   * **_SDRTV-to-HDRTV Conversion via Spatial-Temporal Feature Fusion_** <br>
  `Arxiv 2022` [`Paper`](https://arxiv.org/pdf/2211.02297.pdf)
  
+   * **_Towards Real-World HDRTV Reconstruction: A Data Synthesis-Based Approach_** <br>
+ `ECCV 2022` [`Paper`](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790195.pdf)
+ 
  ### Multiple Exposure Fusion (mainly for dynamic scenes)
 *  **_Deep high dynamic range imaging of dynamic scenes_** <br>
 `SIGGRAPH Asia 2017` | [`Paper`](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/PaperData/SIGGRAPH17_HDR.pdf) | [`Project`](http://viscomp.ucsd.edu/projects/SIG17HDR/) | [`Code::matlab (Official)`](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/PaperData/SIGGRAPH17_HDR_Code_v1.0.zip) | [`Code::TensorFlow`](https://github.com/TH3CHARLie/deep-high-dynamic-range)<br>
